@@ -4,10 +4,6 @@ body {
     background-color: #a9b1dd;
 }
 
-.navbar {
-    background-color: #333;
-}
-
 .navbar a:hover {
     background-color: #ddd;
     color: black;
@@ -16,6 +12,7 @@ body {
 .navbar {
     position: sticky;
     top: 0;
+    background-color: #bdbbc7 !important;
 }
 
 .footer {
